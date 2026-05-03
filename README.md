@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi 👋, I'm Shaurya Pratap Singh
 
-<!--
-**SHAURYA077/SHAURYA077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech ECE (AI & ML) Student  
+🏫 Gautam Buddha University  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- C Programming
+- Python (Basic)
+- HTML & CSS
+- GitHub
+
+---
+
+## 🚀 Projects
+- Portfolio Website
+- Basic Programming Projects
+
+---
+
+## 📚 Currently Learning
+- Machine Learning
+- Web Development
+
+---
+
+## 📫 Contact Me
+- Email: (pratapsinghshaurya077@gmail.com)
+- LinkedIn: (https://www.linkedin.com/in/shaurya-pratap-singh-78b052408/?skipRedirect=true)
+
+---
+
+## ⚡ About Me
+I am a passionate student learning new technologies and building projects.
